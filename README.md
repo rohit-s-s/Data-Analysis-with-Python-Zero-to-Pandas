@@ -1,6 +1,6 @@
 # **Data Analysis with Python: Zero to Pandas**
 
-This repository contain course ptoject to the Data Analysis with Python: Zero to Pandas. In this project, I have the kno applied wledge and skills that I gained throughout the course to analyze a real-world dataset using Python and various data analysis techniques.
+This repository contain course ptoject to the Data Analysis with Python: Zero to Pandas. In this project, I have the  applied  knowledge and skills that I gained throughout the course to analyze a real-world dataset using Python and various data analysis techniques.
 
 **Project Goals**
 
